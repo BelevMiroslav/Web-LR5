@@ -1,0 +1,12 @@
+{
+  "name": "lr5-graphql",
+  "version": "1.0.0",
+  "description": "Лабораторна робота №5 - GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "graphql": "^16.8.1"
+  }
+}
